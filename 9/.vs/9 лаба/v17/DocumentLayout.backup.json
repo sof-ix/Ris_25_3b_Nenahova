@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sofan\\OneDrive\\Desktop\\ycheba\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430  \u043B\u0435\u043A\u0446\u0438\u0438\\9 \u043B\u0430\u0431\u0430\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDA5AA9-CF7B-47EB-938F-F2A74902BFEB}|9 \u043B\u0430\u0431\u0430.vcxproj|C:\\Users\\sofan\\source\\repos\\9 \u043B\u0430\u0431\u0430\\9 \u043B\u0430\u0431\u0430.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "9 \u043B\u0430\u0431\u0430.cpp",
+              "DocumentMoniker": "C:\\Users\\sofan\\source\\repos\\9 \u043B\u0430\u0431\u0430\\9 \u043B\u0430\u0431\u0430.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\9 \u043B\u0430\u0431\u0430\\9 \u043B\u0430\u0431\u0430.cpp",
+              "ToolTip": "C:\\Users\\sofan\\source\\repos\\9 \u043B\u0430\u0431\u0430\\9 \u043B\u0430\u0431\u0430.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\9 \u043B\u0430\u0431\u0430\\9 \u043B\u0430\u0431\u0430.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-05T04:05:22.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
